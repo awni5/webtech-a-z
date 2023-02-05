@@ -18,7 +18,7 @@ nav {
   color: #1A9AB6 !important;
 }
 .navbar-brand img{
-  width: 180px;
+  width: 130px;
   margin-left: 20px;
 }
 li{
@@ -44,7 +44,8 @@ main div{
   
 }
 .content_home h3{
-  font-size: 30px;
+  font-size: 25px;
+  width: 80%;
   margin-left: 50px;
 }
 .img_home img{
@@ -209,7 +210,7 @@ main button{
   padding-top: 2rem;
   padding-bottom: 2rem;
   font-size: 30px;
-  width: 20%;
+  width: 50%;
   color: #757575;
 }
 #contact button{
